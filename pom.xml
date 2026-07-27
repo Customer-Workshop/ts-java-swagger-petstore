@@ -237,7 +237,7 @@
         </dependency>
         <dependency>
             <groupId>com.bugsnag</groupId>
-            <version>[3.0,4.0)</version>
+            <version>3.8.0</version>
             <artifactId>bugsnag</artifactId>
         </dependency>
 
